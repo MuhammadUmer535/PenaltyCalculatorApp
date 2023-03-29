@@ -1,0 +1,114 @@
+[
+  {
+    "Name": "Australia",
+    "Slug": "AU",
+    "Currency": "AUD",
+    "AmountPerDay": 4,
+    "DaysOff": [ 6, 0 ]
+  },
+  {
+    "Name": "Bahrain",
+    "Slug": "BH",
+    "Currency": "BHD",
+    "AmountPerDay": 1.5,
+    "DaysOff": [ 5, 6 ]
+  },
+  {
+    "Name": "Bangladesh",
+    "Slug": "BD",
+    "Currency": "BDT",
+    "AmountPerDay": 100,
+    "DaysOff": [ 6, 0 ]
+  },
+  {
+    "Name": "Canada",
+    "Slug": "CA",
+    "Currency": "CAD",
+    "AmountPerDay": 3,
+    "DaysOff": [ 6, 0 ]
+  },
+  {
+    "Name": "China",
+    "Slug": "CN",
+    "Currency": "CNY",
+    "AmountPerDay": 150,
+    "DaysOff": [ 6, 0 ]
+  },
+  {
+    "Name": "Egypt",
+    "Slug": "EG",
+    "Currency": "EGP",
+    "AmountPerDay": 80,
+    "DaysOff": [ 5, 6 ]
+  },
+  {
+    "Name": "Germany",
+    "Slug": "DE",
+    "Currency": "EUR",
+    "AmountPerDay": 7,
+    "DaysOff": [ 6, 0 ]
+  },
+  {
+    "Name": "India",
+    "Slug": "IN",
+    "Currency": "INR",
+    "AmountPerDay": 80,
+    "DaysOff": [ 6, 0 ]
+  },
+  {
+    "Name": "Iran",
+    "Slug": "IR",
+    "Currency": "IRR",
+    "AmountPerDay": 800,
+    "DaysOff": [ 4, 5 ]
+  },
+  {
+    "Name": "Kuwait",
+    "Slug": "KW",
+    "Currency": "KWD",
+    "AmountPerDay": 1,
+    "DaysOff": [ 5, 6 ]
+  },
+  {
+    "Name": "Pakistan",
+    "Slug": "PK",
+    "Currency": "PKR",
+    "AmountPerDay": 350,
+    "DaysOff": [ 6, 0 ]
+  },
+  {
+    "Name": "Qatar",
+    "Slug": "QA",
+    "Currency": "QAR",
+    "AmountPerDay": 6,
+    "DaysOff": [ 5, 6 ]
+  },
+  {
+    "Name": "Saudi Arabia",
+    "Slug": "SA",
+    "Currency": "SAR",
+    "AmountPerDay": 6.5,
+    "DaysOff": [ 5, 6 ]
+  },
+  {
+    "Name": "United Arab Emirates",
+    "Slug": "AE",
+    "Currency": "AED",
+    "AmountPerDay": 5,
+    "DaysOff": [ 6, 0 ]
+  },
+  {
+    "Name": "United Kingdom",
+    "Slug": "UK",
+    "Currency": "GBP",
+    "AmountPerDay": 1.5,
+    "DaysOff": [ 6, 0 ]
+  },
+  {
+    "Name": "United States",
+    "Slug": "US",
+    "Currency": "USD",
+    "AmountPerDay": 2.5,
+    "DaysOff": [ 6, 0 ]
+  }
+]

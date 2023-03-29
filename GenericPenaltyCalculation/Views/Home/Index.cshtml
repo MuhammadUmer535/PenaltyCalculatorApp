@@ -1,0 +1,70 @@
+﻿@model PenaltyCalculationModel
+
+@{
+    ViewData["Title"] = "Penalty Calculator";
+}
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+
+    <div class="panel panel-default form-panel container">
+        <div class="panel-heading" style="text-align:center;">
+                <h3>Generic Penalty Calculator</h3>
+            <br><br>
+        </div>
+
+        <div class="panel-body">
+            <div class="message-error">
+                @Html.ValidationSummary(true)
+            </div>
+
+
+
+            <div class="row" style="margin-bottom:40px;">
+                <div class="col-md-12 col-sm-12 col-xs-12">
+                    <div class="col-md-3 col-sm-3 col-xs-12 formContainer">
+
+                        <div class="form-group row">
+                            <label>Select a Country</label>
+                            @Html.DropDownListFor(model => model.selectedCountry, Model.LstCountries, new { @class = "form-control", @placeholder = "Countries" })
+                            @Html.ValidationMessageFor(model => model.selectedCountry, String.Empty)
+                        </div>
+
+                    </div>
+                    <div class="col-md-4 col-sm-4 col-xs-12 formContainer">
+
+                        <div class="form-group row">
+                            <label>Select Start Date</label>
+                            @Html.EditorFor(model => model.StartDate, new { htmlAttributes = new { @class = "form-control datepicker" } })
+                            @Html.ValidationMessageFor(model => model.selectedCountry, String.Empty)
+
+                        </div>
+
+                    </div>
+                    <div class="col-md-4 col-sm-4 col-xs-12 formContainer">
+
+                        <div class="form-group row">
+                            <label>Select End Date</label>
+                            @Html.EditorFor(model => model.EndDate, new { htmlAttributes = new { @class = "form-control datepicker" } })
+                            @Html.ValidationMessageFor(model => model.selectedCountry, String.Empty)
+
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+
+            <div style="text-align:center;">
+                <button class="btn btn-primary btn-ghost btn-fill-up">Calculate Penalty</button>
+            </div>
+            <br><br>
+            <div style="text-align:center;">
+                <h1 style="font-weight:300; font-size:5rem;">@(Model.penaltyAmount)</h1>
+            </div>
+        </div>
+    </div>
+}
+
+

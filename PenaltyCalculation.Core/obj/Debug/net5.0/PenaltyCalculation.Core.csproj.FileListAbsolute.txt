@@ -1,0 +1,11 @@
+C:\Users\muham\source\repos\GenericPenaltyCalculation\PenaltyCalculation.Core\bin\Debug\net5.0\PenaltyCalculation.Core.deps.json
+C:\Users\muham\source\repos\GenericPenaltyCalculation\PenaltyCalculation.Core\bin\Debug\net5.0\PenaltyCalculation.Core.dll
+C:\Users\muham\source\repos\GenericPenaltyCalculation\PenaltyCalculation.Core\bin\Debug\net5.0\ref\PenaltyCalculation.Core.dll
+C:\Users\muham\source\repos\GenericPenaltyCalculation\PenaltyCalculation.Core\bin\Debug\net5.0\PenaltyCalculation.Core.pdb
+C:\Users\muham\source\repos\GenericPenaltyCalculation\PenaltyCalculation.Core\obj\Debug\net5.0\PenaltyCalculation.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muham\source\repos\GenericPenaltyCalculation\PenaltyCalculation.Core\obj\Debug\net5.0\PenaltyCalculation.Core.AssemblyInfoInputs.cache
+C:\Users\muham\source\repos\GenericPenaltyCalculation\PenaltyCalculation.Core\obj\Debug\net5.0\PenaltyCalculation.Core.AssemblyInfo.cs
+C:\Users\muham\source\repos\GenericPenaltyCalculation\PenaltyCalculation.Core\obj\Debug\net5.0\PenaltyCalculation.Core.csproj.CoreCompileInputs.cache
+C:\Users\muham\source\repos\GenericPenaltyCalculation\PenaltyCalculation.Core\obj\Debug\net5.0\PenaltyCalculation.Core.dll
+C:\Users\muham\source\repos\GenericPenaltyCalculation\PenaltyCalculation.Core\obj\Debug\net5.0\ref\PenaltyCalculation.Core.dll
+C:\Users\muham\source\repos\GenericPenaltyCalculation\PenaltyCalculation.Core\obj\Debug\net5.0\PenaltyCalculation.Core.pdb

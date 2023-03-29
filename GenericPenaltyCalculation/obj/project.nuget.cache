@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "FGc50utTZW658hREFmxz1EgE6DWEIVUj/Im6KVrWYRvb9vIUZIc1xgXGoIFEJmzto2gt113X3aGvvluHTqO8Gw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\muham\\source\\repos\\GenericPenaltyCalculation\\GenericPenaltyCalculation\\GenericPenaltyCalculation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\muham\\.nuget\\packages\\jquery\\2.0.0\\jquery.2.0.0.nupkg.sha512",
+    "C:\\Users\\muham\\.nuget\\packages\\jquery.ui.combined\\1.13.2\\jquery.ui.combined.1.13.2.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "jQuery.UI.Combined 1.13.2 depends on jQuery (>= 1.13.1) but jQuery 1.13.1 was not found. An approximate best match of jQuery 2.0.0 was resolved.",
+      "libraryId": "jQuery",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}

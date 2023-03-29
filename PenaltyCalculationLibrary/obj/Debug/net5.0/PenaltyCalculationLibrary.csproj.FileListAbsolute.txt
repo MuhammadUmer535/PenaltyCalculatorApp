@@ -1,0 +1,15 @@
+C:\Users\muham\source\repos\GenericPenaltyCalculation\PenaltyCalculationLibrary\bin\Debug\net5.0\PenaltyCalculationLibrary.deps.json
+C:\Users\muham\source\repos\GenericPenaltyCalculation\PenaltyCalculationLibrary\bin\Debug\net5.0\PenaltyCalculationLibrary.dll
+C:\Users\muham\source\repos\GenericPenaltyCalculation\PenaltyCalculationLibrary\bin\Debug\net5.0\ref\PenaltyCalculationLibrary.dll
+C:\Users\muham\source\repos\GenericPenaltyCalculation\PenaltyCalculationLibrary\bin\Debug\net5.0\PenaltyCalculationLibrary.pdb
+C:\Users\muham\source\repos\GenericPenaltyCalculation\PenaltyCalculationLibrary\bin\Debug\net5.0\PenaltyCalculation.Core.dll
+C:\Users\muham\source\repos\GenericPenaltyCalculation\PenaltyCalculationLibrary\bin\Debug\net5.0\PenaltyCalculation.Core.pdb
+C:\Users\muham\source\repos\GenericPenaltyCalculation\PenaltyCalculationLibrary\obj\Debug\net5.0\PenaltyCalculationLibrary.csproj.AssemblyReference.cache
+C:\Users\muham\source\repos\GenericPenaltyCalculation\PenaltyCalculationLibrary\obj\Debug\net5.0\PenaltyCalculationLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muham\source\repos\GenericPenaltyCalculation\PenaltyCalculationLibrary\obj\Debug\net5.0\PenaltyCalculationLibrary.AssemblyInfoInputs.cache
+C:\Users\muham\source\repos\GenericPenaltyCalculation\PenaltyCalculationLibrary\obj\Debug\net5.0\PenaltyCalculationLibrary.AssemblyInfo.cs
+C:\Users\muham\source\repos\GenericPenaltyCalculation\PenaltyCalculationLibrary\obj\Debug\net5.0\PenaltyCalculationLibrary.csproj.CoreCompileInputs.cache
+C:\Users\muham\source\repos\GenericPenaltyCalculation\PenaltyCalculationLibrary\obj\Debug\net5.0\PenaltyCalculationLibrary.csproj.CopyComplete
+C:\Users\muham\source\repos\GenericPenaltyCalculation\PenaltyCalculationLibrary\obj\Debug\net5.0\PenaltyCalculationLibrary.dll
+C:\Users\muham\source\repos\GenericPenaltyCalculation\PenaltyCalculationLibrary\obj\Debug\net5.0\ref\PenaltyCalculationLibrary.dll
+C:\Users\muham\source\repos\GenericPenaltyCalculation\PenaltyCalculationLibrary\obj\Debug\net5.0\PenaltyCalculationLibrary.pdb
